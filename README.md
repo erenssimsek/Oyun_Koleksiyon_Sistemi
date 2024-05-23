@@ -1,3 +1,7 @@
+Bu proje, oyun koleksiyonlarını yönetmek için Python ile geliştirilmiş bir sistemdir. Kullanıcılar, sahip oldukları oyunları sisteme kaydedebilir, oyunların detaylarını görüntüleyebilir ve koleksiyonlarını organize edebilirler. Sistem, oyun adı, türü, platformu gibi bilgilerin kaydedilmesine olanak tanır. Ayrıca, kullanıcılar oyun koleksiyonlarını kolayca güncelleyebilir ve arayüz üzerinden oyunlarını listeleyebilir.
+
+
+
 ![Video Game Collection Manager 6 05 2024 16_22_08](https://github.com/erenssimsek/Oyun_Koleksiyon_Sistemi/assets/93097999/323681d5-d441-43e3-b0bb-e39441288a72)
 
 ![Video Game Collection Manager 6 05 2024 16_22_10](https://github.com/erenssimsek/Oyun_Koleksiyon_Sistemi/assets/93097999/63d13eb7-de92-493f-92cb-269d147a1b69)
